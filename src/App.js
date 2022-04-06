@@ -8,6 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Hello git! This is my react app, hope you like it.
+          Thank you Netlify for deploying this papaya-react application to the world.
         </p>
         <a
           className="App-link"
